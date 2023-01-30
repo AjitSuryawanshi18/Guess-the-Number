@@ -1,0 +1,71 @@
+*{
+    background-color: yellow;
+}
+.nav{
+    background-color: blue;
+    color: white;
+    height: 5vh;
+    padding: 2vh ;
+    font-size: 2vw;
+    text-align: center;
+    border-radius: 1vw;
+
+}
+.input{
+    background-color: white;
+   font-size: 50px;
+    width: 21vw;
+    height: 10vh;
+    padding-left: 10vw ;
+    padding-right: 5vw ;
+    border-radius: 2vw;
+    
+}
+.bgcolor{
+    background-color:chartreuse;
+    height: 10vh;
+    padding-top: 3vh;
+}
+
+.guessgame{
+    background-color: aqua;
+    margin-top: 15vh;
+    justify-content: center;
+    text-align: center;
+    border-radius: 7vw;
+}
+.button{
+    margin-top: 4vh;
+    margin-bottom: 2vh;
+    width: 10vw;
+    height: 5vh;
+    border-radius: 1vw;
+}
+.button:hover{
+    cursor: pointer;
+    background-color:deeppink;
+    border-radius: 10vw;
+    width:15vw;
+}
+.input:hover{
+    background-color:whitesmoke;
+}
+#write{
+
+    color: white;
+    margin-left: 28vw;
+    padding: 2vh 0;
+    border-radius: 5vw;
+    text-align: center;
+    width: 40vw;
+    height: 5vh;
+}
+
+.footer{
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-top: 16%;
+    height: 3vh;
+    border-radius: 1vw;
+   
+}
